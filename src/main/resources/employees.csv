@@ -1,0 +1,11 @@
+﻿id,fisrtName,lastName,salary,ManagerId
+1,Jane,CEO,200000,
+2,Bob,M1,120000,1
+3,Alice,M2,100000,1
+4,Mike,E1,60000,2
+5,Sue,E2,70000,2
+6,Tom,M3,78000,3
+7,Ken,E4,75000,3
+8,Lisa,E5,80000,3
+9,Pat,E6,45000,6
+10,Eva,E7,50000,6
